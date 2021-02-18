@@ -43,8 +43,8 @@ public class GameScreen implements ActionListener, KeyListener {
         menu = new JMenu("GameSettings");
         newGame = new JMenuItem("new Game");
         speedMenu = new JMenu("Speed");
-        sizeMenu = new JMenu("Size");
-        speedAdaptive = new JRadioButton ("TBD");
+        sizeMenu = new JMenu("Size(TODO)");
+        speedAdaptive = new JRadioButton ("Adaptive(TODO)");
         speedCrazy = new JRadioButton ("Crazy (Quadrupel Points)");
         speedFast = new JRadioButton ("Fast (Double Points)");
         speedSlow = new JRadioButton ("Slow (Single Points)", true);
