@@ -1,10 +1,7 @@
 {
-    "java.project.referencedLibraries": {
-        "include": [
-            "lib/**/*.jar"
-        ],
-        "exclude": [
-            "src/resources/sqlite-jdbc-3.8.11.2.jar"
-        ]
-    }
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Projects\\20201019_IHK_Swd_Java\\210301_JavaAufbau\\Datenbank\\OldschoolDbConnection\\src\\resource\\sqlite-jdbc-3.34.0.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
 }
