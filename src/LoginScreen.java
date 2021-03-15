@@ -26,7 +26,7 @@ public class LoginScreen implements ActionListener {
         int width = 250;
         int height = 250;
         frame = new JFrame("Loginscreen");
-        frame.setLocation(900, 300);
+        frame.setLocation(800, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setBackground(Color.lightGray);

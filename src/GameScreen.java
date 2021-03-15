@@ -32,6 +32,7 @@ public class GameScreen implements ActionListener, KeyListener {
 
         frame = new JFrame("Snake Game");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setLocation(800, 200);
         frame.setResizable(false);
         frame.addKeyListener(this);
 
